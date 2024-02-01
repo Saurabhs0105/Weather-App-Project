@@ -1,8 +1,19 @@
+# Weather App Project By using react + vite
+
+# Project OverView
+
+- Developed a React-based weather application website for showcasing front-end development skills.
+- Integrated APIs to fetch and display real-time weather data, demonstrating proficiency in API integration.
+- Designed a user-friendly interface with a focus on responsive and visually appealing components.
+
+## Technologies Used
+
+- React + Vite
+- APIs for real-time weather data
+- JavaScript
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
